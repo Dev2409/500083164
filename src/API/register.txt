@@ -1,0 +1,8 @@
+{
+    "companyName": "Train Central",
+    "clientID": "ba961ce0-da68-4f05-9f96-0554d3199433",
+    "clientSecret": "gAieJuFVZUsgPmwe",
+    "ownerName": "Ram",
+    "ownerEmail": "ram@abc.edu",
+    "rollNo": "111"
+}
